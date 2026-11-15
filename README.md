@@ -18,6 +18,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 15 | [B - Modulo Sum](https://codeforces.com/contest/577/problem/B) | [C++17 (GCC 7-32)](https://codeforces.com/contest/577/submission/398707039) | `combinatorics` `data structures` `dp` `two pointers` `*1900` | Nov/16/2026 12:51 AM |
+| 14 | [D - Prime XOR Coloring](https://codeforces.com/contest/1991/problem/D) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1991/submission/398706426) | `bitmasks` `constructive algorithms` `graphs` `greedy` `math` `number theory` `*1900` | Nov/16/2026 12:45 AM |
+| 13 | [E - Array Shrinking](https://codeforces.com/contest/1312/problem/E) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1312/submission/398705115) | `dp` `greedy` `*2100` | Nov/16/2026 12:32 AM |
 | 12 | [F - SUM and REPLACE](https://codeforces.com/contest/920/problem/F) | [C++17 (GCC 7-32)](https://codeforces.com/contest/920/submission/398704181) | `brute force` `data structures` `dsu` `number theory` `*2000` | Nov/16/2026 12:22 AM |
 | 11 | [E - Tree Painting](https://codeforces.com/contest/1187/problem/E) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1187/submission/398701514) | `dfs and similar` `dp` `trees` `*2100` | Nov/15/2026 11:56 PM |
 | 10 | [F - Cherry Tree](https://codeforces.com/contest/2184/problem/F) | [C++17 (GCC 7-32)](https://codeforces.com/contest/2184/submission/398699707) | `dfs and similar` `dp` `graphs` `trees` `*1900` | Nov/15/2026 11:42 PM |
