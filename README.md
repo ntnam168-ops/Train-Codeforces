@@ -1,0 +1,27 @@
+## Codeforces Submissions
+
+*Auto-generated with ❤️ using [Codeforces Submission Fetcher](https://github.com/Andrew-Velox/Codeforces-Submission-Fetcher-Extension)*
+
+## Introduction
+
+A repository to keep track of problem solving practice, containing solutions from platforms:
+
+• **Codeforces**
+
+> Codeforces is a website which hosts competitive programming contests: [http://codeforces.com](http://codeforces.com)
+
+
+
+## Contents
+
+
+
+| # | Title | Solution | Tags | Submitted |
+|:-:|-------|----------|------|-----------|
+| 7 | [D - Small GCD](https://codeforces.com/contest/1900/problem/D) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1900/submission/398634171) | `bitmasks` `brute force` `dp` `math` `number theory` `*2000` | Nov/15/2026 04:43 PM |
+| 6 | [D - Dr. Evil Underscores](https://codeforces.com/contest/1285/problem/D) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1285/submission/398633211) | `bitmasks` `brute force` `dfs and similar` `divide and conquer` `dp` `greedy` `strings` `trees` `*1900` | Nov/15/2026 04:31 PM |
+| 5 | [D - Max Median](https://codeforces.com/contest/1486/problem/D) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1486/submission/398585851) | `binary search` `data structures` `dp` `*2100` | Nov/15/2026 12:58 AM |
+| 4 | [C - Painting Fence](https://codeforces.com/contest/448/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/448/submission/398585353) | `divide and conquer` `dp` `greedy` `*1900` | Nov/15/2026 12:53 AM |
+| 3 | [F - MEX Replacement](https://codeforces.com/contest/2266/problem/F) | [C++17 (GCC 7-32)](https://codeforces.com/contest/2266/submission/398583970) | `binary search` `brute force` `greedy` `implementation` `math` `sortings` `*2000` | Nov/15/2026 12:39 AM |
+| 2 | [C - Dijkstra?](https://codeforces.com/contest/20/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/20/submission/398558595) | `graphs` `shortest paths` `*1900` | Nov/14/2026 09:56 PM |
+| 1 | [E - Xenia and Tree](https://codeforces.com/contest/342/problem/E) | [C++17 (GCC 7-32)](https://codeforces.com/contest/342/submission/398558136) | `data structures` `divide and conquer` `trees` `*2400` | Nov/14/2026 09:52 PM |
