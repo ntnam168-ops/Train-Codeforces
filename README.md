@@ -18,6 +18,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 12 | [F - SUM and REPLACE](https://codeforces.com/contest/920/problem/F) | [C++17 (GCC 7-32)](https://codeforces.com/contest/920/submission/398704181) | `brute force` `data structures` `dsu` `number theory` `*2000` | Nov/16/2026 12:22 AM |
+| 11 | [E - Tree Painting](https://codeforces.com/contest/1187/problem/E) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1187/submission/398701514) | `dfs and similar` `dp` `trees` `*2100` | Nov/15/2026 11:56 PM |
+| 10 | [F - Cherry Tree](https://codeforces.com/contest/2184/problem/F) | [C++17 (GCC 7-32)](https://codeforces.com/contest/2184/submission/398699707) | `dfs and similar` `dp` `graphs` `trees` `*1900` | Nov/15/2026 11:42 PM |
 | 9 | [F - Clear the String](https://codeforces.com/contest/1132/problem/F) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1132/submission/398682728) | `dp` `*2000` | Nov/15/2026 10:24 PM |
 | 8 | [D - The Child and Sequence](https://codeforces.com/contest/438/problem/D) | [C++17 (GCC 7-32)](https://codeforces.com/contest/438/submission/398680361) | `data structures` `math` `*2300` | Nov/15/2026 10:16 PM |
 | 7 | [D - Small GCD](https://codeforces.com/contest/1900/problem/D) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1900/submission/398634171) | `bitmasks` `brute force` `dp` `math` `number theory` `*2000` | Nov/15/2026 04:43 PM |
