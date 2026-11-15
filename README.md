@@ -18,6 +18,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 9 | [F - Clear the String](https://codeforces.com/contest/1132/problem/F) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1132/submission/398682728) | `dp` `*2000` | Nov/15/2026 10:24 PM |
 | 8 | [D - The Child and Sequence](https://codeforces.com/contest/438/problem/D) | [C++17 (GCC 7-32)](https://codeforces.com/contest/438/submission/398680361) | `data structures` `math` `*2300` | Nov/15/2026 10:16 PM |
 | 7 | [D - Small GCD](https://codeforces.com/contest/1900/problem/D) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1900/submission/398634171) | `bitmasks` `brute force` `dp` `math` `number theory` `*2000` | Nov/15/2026 04:43 PM |
 | 6 | [D - Dr. Evil Underscores](https://codeforces.com/contest/1285/problem/D) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1285/submission/398633211) | `bitmasks` `brute force` `dfs and similar` `divide and conquer` `dp` `greedy` `strings` `trees` `*1900` | Nov/15/2026 04:31 PM |
