@@ -18,6 +18,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 16 | [G - Index Removal](https://codeforces.com/contest/2259/problem/G) | [C++17 (GCC 7-32)](https://codeforces.com/contest/2259/submission/398708189) | `binary search` `data structures` `math` `*1900` | Nov/16/2026 01:04 AM |
 | 15 | [B - Modulo Sum](https://codeforces.com/contest/577/problem/B) | [C++17 (GCC 7-32)](https://codeforces.com/contest/577/submission/398707039) | `combinatorics` `data structures` `dp` `two pointers` `*1900` | Nov/16/2026 12:51 AM |
 | 14 | [D - Prime XOR Coloring](https://codeforces.com/contest/1991/problem/D) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1991/submission/398706426) | `bitmasks` `constructive algorithms` `graphs` `greedy` `math` `number theory` `*1900` | Nov/16/2026 12:45 AM |
 | 13 | [E - Array Shrinking](https://codeforces.com/contest/1312/problem/E) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1312/submission/398705115) | `dp` `greedy` `*2100` | Nov/16/2026 12:32 AM |
