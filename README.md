@@ -18,6 +18,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 21 | [C - Sereja and Brackets](https://codeforces.com/contest/380/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/380/submission/398758819) | `data structures` `schedules` `*2000` | Nov/16/2026 04:13 PM |
 | 20 | [B - Zuma](https://codeforces.com/contest/607/problem/B) | [C++17 (GCC 7-32)](https://codeforces.com/contest/607/submission/398757110) | `dp` `*1900` | Nov/16/2026 03:53 PM |
 | 19 | [D - Powerful array](https://codeforces.com/contest/86/problem/D) | [C++17 (GCC 7-32)](https://codeforces.com/contest/86/submission/398753022) | `data structures` `implementation` `math` `two pointers` `*2200` | Nov/16/2026 03:05 PM |
 | 18 | [F - Vasilije Loves Number Theory](https://codeforces.com/contest/1878/problem/F) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1878/submission/398751421) | `brute force` `math` `number theory` `*1900` | Nov/16/2026 02:45 PM |
