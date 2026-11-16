@@ -18,6 +18,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 20 | [B - Zuma](https://codeforces.com/contest/607/problem/B) | [C++17 (GCC 7-32)](https://codeforces.com/contest/607/submission/398757110) | `dp` `*1900` | Nov/16/2026 03:53 PM |
+| 19 | [D - Powerful array](https://codeforces.com/contest/86/problem/D) | [C++17 (GCC 7-32)](https://codeforces.com/contest/86/submission/398753022) | `data structures` `implementation` `math` `two pointers` `*2200` | Nov/16/2026 03:05 PM |
+| 18 | [F - Vasilije Loves Number Theory](https://codeforces.com/contest/1878/problem/F) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1878/submission/398751421) | `brute force` `math` `number theory` `*1900` | Nov/16/2026 02:45 PM |
 | 17 | [E - Holes](https://codeforces.com/contest/13/problem/E) | [C++17 (GCC 7-32)](https://codeforces.com/contest/13/submission/398737091) | `data structures` `dsu` `*2700` | Nov/16/2026 10:29 AM |
 | 16 | [G - Index Removal](https://codeforces.com/contest/2259/problem/G) | [C++17 (GCC 7-32)](https://codeforces.com/contest/2259/submission/398708189) | `binary search` `data structures` `math` `*1900` | Nov/16/2026 01:04 AM |
 | 15 | [B - Modulo Sum](https://codeforces.com/contest/577/problem/B) | [C++17 (GCC 7-32)](https://codeforces.com/contest/577/submission/398707039) | `combinatorics` `data structures` `dp` `two pointers` `*1900` | Nov/16/2026 12:51 AM |
