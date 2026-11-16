@@ -18,6 +18,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 26 | [C - Maximal GCD](https://codeforces.com/contest/803/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/803/submission/398795441) | `constructive algorithms` `greedy` `math` `*1900` | Nov/16/2026 10:08 PM |
+| 25 | [E - Compatible Numbers](https://codeforces.com/contest/165/problem/E) | [C++17 (GCC 7-32)](https://codeforces.com/contest/165/submission/398794099) | `bitmasks` `brute force` `dfs and similar` `dp` `*2200` | Nov/16/2026 09:56 PM |
+| 24 | [D - Zigzags](https://codeforces.com/contest/1400/problem/D) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1400/submission/398792489) | `brute force` `combinatorics` `data structures` `math` `two pointers` `*1900` | Nov/16/2026 09:42 PM |
+| 23 | [B - Orac and Medians](https://codeforces.com/contest/1349/problem/B) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1349/submission/398791344) | `constructive algorithms` `greedy` `math` `*2000` | Nov/16/2026 09:31 PM |
+| 22 | [E - Enemy is weak](https://codeforces.com/contest/61/problem/E) | [C++17 (GCC 7-32)](https://codeforces.com/contest/61/submission/398772617) | `data structures` `trees` `*1900` | Nov/16/2026 06:55 PM |
 | 21 | [C - Sereja and Brackets](https://codeforces.com/contest/380/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/380/submission/398758819) | `data structures` `schedules` `*2000` | Nov/16/2026 04:13 PM |
 | 20 | [B - Zuma](https://codeforces.com/contest/607/problem/B) | [C++17 (GCC 7-32)](https://codeforces.com/contest/607/submission/398757110) | `dp` `*1900` | Nov/16/2026 03:53 PM |
 | 19 | [D - Powerful array](https://codeforces.com/contest/86/problem/D) | [C++17 (GCC 7-32)](https://codeforces.com/contest/86/submission/398753022) | `data structures` `implementation` `math` `two pointers` `*2200` | Nov/16/2026 03:05 PM |

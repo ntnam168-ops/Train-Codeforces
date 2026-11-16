@@ -2,6 +2,9 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 12 | [C - Maximal GCD](https://codeforces.com/contest/803/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/803/submission/398795441) | `constructive algorithms` `greedy` `math` `*1900` | Nov/16/2026 10:08 PM |
+| 11 | [D - Zigzags](https://codeforces.com/contest/1400/problem/D) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1400/submission/398792489) | `brute force` `combinatorics` `data structures` `math` `two pointers` `*1900` | Nov/16/2026 09:42 PM |
+| 10 | [E - Enemy is weak](https://codeforces.com/contest/61/problem/E) | [C++17 (GCC 7-32)](https://codeforces.com/contest/61/submission/398772617) | `data structures` `trees` `*1900` | Nov/16/2026 06:55 PM |
 | 9 | [B - Zuma](https://codeforces.com/contest/607/problem/B) | [C++17 (GCC 7-32)](https://codeforces.com/contest/607/submission/398757110) | `dp` `*1900` | Nov/16/2026 03:53 PM |
 | 8 | [F - Vasilije Loves Number Theory](https://codeforces.com/contest/1878/problem/F) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1878/submission/398751421) | `brute force` `math` `number theory` `*1900` | Nov/16/2026 02:45 PM |
 | 7 | [G - Index Removal](https://codeforces.com/contest/2259/problem/G) | [C++17 (GCC 7-32)](https://codeforces.com/contest/2259/submission/398708189) | `binary search` `data structures` `math` `*1900` | Nov/16/2026 01:04 AM |
