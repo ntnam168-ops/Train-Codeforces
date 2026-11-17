@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 13 | [E - Replace the Numbers](https://codeforces.com/contest/1620/problem/E) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1620/submission/398869904) | `constructive algorithms` `data structures` `dsu` `implementation` `*1900` | Nov/17/2026 10:47 AM |
 | 12 | [C - Maximal GCD](https://codeforces.com/contest/803/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/803/submission/398795441) | `constructive algorithms` `greedy` `math` `*1900` | Nov/16/2026 10:08 PM |
 | 11 | [D - Zigzags](https://codeforces.com/contest/1400/problem/D) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1400/submission/398792489) | `brute force` `combinatorics` `data structures` `math` `two pointers` `*1900` | Nov/16/2026 09:42 PM |
 | 10 | [E - Enemy is weak](https://codeforces.com/contest/61/problem/E) | [C++17 (GCC 7-32)](https://codeforces.com/contest/61/submission/398772617) | `data structures` `trees` `*1900` | Nov/16/2026 06:55 PM |

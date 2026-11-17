@@ -18,6 +18,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 32 | [E - XOR on Segment](https://codeforces.com/contest/242/problem/E) | [C++17 (GCC 7-32)](https://codeforces.com/contest/242/submission/398890649) | `bitmasks` `data structures` `*2000` | Nov/17/2026 02:28 PM |
+| 31 | [E - A and B and Lecture Rooms](https://codeforces.com/contest/519/problem/E) | [C++17 (GCC 7-32)](https://codeforces.com/contest/519/submission/398885876) | `binary search` `data structures` `dfs and similar` `dp` `trees` `*2100` | Nov/17/2026 02:08 PM |
+| 30 | [C - Ciel the Commander](https://codeforces.com/contest/321/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/321/submission/398880413) | `constructive algorithms` `dfs and similar` `divide and conquer` `greedy` `trees` `*2100` | Nov/17/2026 01:41 PM |
+| 29 | [E - XOR and Favorite Number](https://codeforces.com/contest/617/problem/E) | [C++17 (GCC 7-32)](https://codeforces.com/contest/617/submission/398878951) | `data structures` `*2200` | Nov/17/2026 01:31 PM |
+| 28 | [E - Replace the Numbers](https://codeforces.com/contest/1620/problem/E) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1620/submission/398869904) | `constructive algorithms` `data structures` `dsu` `implementation` `*1900` | Nov/17/2026 10:47 AM |
+| 27 | [F - Ant colony](https://codeforces.com/contest/474/problem/F) | [C++17 (GCC 7-32)](https://codeforces.com/contest/474/submission/398869723) | `data structures` `math` `number theory` `*2100` | Nov/17/2026 10:42 AM |
 | 26 | [C - Maximal GCD](https://codeforces.com/contest/803/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/803/submission/398795441) | `constructive algorithms` `greedy` `math` `*1900` | Nov/16/2026 10:08 PM |
 | 25 | [E - Compatible Numbers](https://codeforces.com/contest/165/problem/E) | [C++17 (GCC 7-32)](https://codeforces.com/contest/165/submission/398794099) | `bitmasks` `brute force` `dfs and similar` `dp` `*2200` | Nov/16/2026 09:56 PM |
 | 24 | [D - Zigzags](https://codeforces.com/contest/1400/problem/D) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1400/submission/398792489) | `brute force` `combinatorics` `data structures` `math` `two pointers` `*1900` | Nov/16/2026 09:42 PM |
