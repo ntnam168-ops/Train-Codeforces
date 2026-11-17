@@ -18,6 +18,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 33 | [D - Ghd](https://codeforces.com/contest/364/problem/D) | [C++17 (GCC 7-32)](https://codeforces.com/contest/364/submission/398960118) | `brute force` `math` `probabilities` `*2900` | Nov/17/2026 10:53 PM |
 | 32 | [E - XOR on Segment](https://codeforces.com/contest/242/problem/E) | [C++17 (GCC 7-32)](https://codeforces.com/contest/242/submission/398890649) | `bitmasks` `data structures` `*2000` | Nov/17/2026 02:28 PM |
 | 31 | [E - A and B and Lecture Rooms](https://codeforces.com/contest/519/problem/E) | [C++17 (GCC 7-32)](https://codeforces.com/contest/519/submission/398885876) | `binary search` `data structures` `dfs and similar` `dp` `trees` `*2100` | Nov/17/2026 02:08 PM |
 | 30 | [C - Ciel the Commander](https://codeforces.com/contest/321/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/321/submission/398880413) | `constructive algorithms` `dfs and similar` `divide and conquer` `greedy` `trees` `*2100` | Nov/17/2026 01:41 PM |
