@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 14 | [C - Nikita and LCM](https://codeforces.com/contest/1977/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1977/submission/399091304) | `brute force` `data structures` `dp` `greedy` `math` `number theory` `sortings` `*1900` | Nov/19/2026 10:44 AM |
 | 13 | [E - Replace the Numbers](https://codeforces.com/contest/1620/problem/E) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1620/submission/398869904) | `constructive algorithms` `data structures` `dsu` `implementation` `*1900` | Nov/17/2026 10:47 AM |
 | 12 | [C - Maximal GCD](https://codeforces.com/contest/803/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/803/submission/398795441) | `constructive algorithms` `greedy` `math` `*1900` | Nov/16/2026 10:08 PM |
 | 11 | [D - Zigzags](https://codeforces.com/contest/1400/problem/D) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1400/submission/398792489) | `brute force` `combinatorics` `data structures` `math` `two pointers` `*1900` | Nov/16/2026 09:42 PM |
