@@ -18,6 +18,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 42 | [C - Stripe 2](https://codeforces.com/contest/21/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/21/submission/399408715) | `binary search` `dp` `sortings` `*2000` | Nov/22/2026 02:32 AM |
+| 41 | [C - Games with Rectangle](https://codeforces.com/contest/128/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/128/submission/399408459) | `combinatorics` `dp` `*2000` | Nov/22/2026 02:27 AM |
+| 40 | [C - Array](https://codeforces.com/contest/57/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/57/submission/399407137) | `combinatorics` `math` `*1900` | Nov/22/2026 02:06 AM |
+| 39 | [D - Two Divisors](https://codeforces.com/contest/1366/problem/D) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1366/submission/399406543) | `constructive algorithms` `math` `number theory` `*2000` | Nov/22/2026 01:56 AM |
+| 38 | [F - Pudding Monsters](https://codeforces.com/contest/526/problem/F) | [C++17 (GCC 7-32)](https://codeforces.com/contest/526/submission/399405899) | `data structures` `divide and conquer` `*3000` | Nov/22/2026 01:47 AM |
 | 37 | [E - The Untended Antiquity](https://codeforces.com/contest/869/problem/E) | [C++17 (GCC 7-32)](https://codeforces.com/contest/869/submission/399312914) | `data structures` `hashing` `*2400` | Nov/21/2026 03:40 PM |
 | 36 | [C - Nikita and LCM](https://codeforces.com/contest/1977/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1977/submission/399091304) | `brute force` `data structures` `dp` `greedy` `math` `number theory` `sortings` `*1900` | Nov/19/2026 10:44 AM |
 | 35 | [E - A Simple Task](https://codeforces.com/contest/558/problem/E) | [C++17 (GCC 7-32)](https://codeforces.com/contest/558/submission/398997231) | `data structures` `sortings` `strings` `*2300` | Nov/18/2026 09:09 AM |

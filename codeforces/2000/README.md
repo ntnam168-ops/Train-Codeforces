@@ -2,6 +2,9 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 10 | [C - Stripe 2](https://codeforces.com/contest/21/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/21/submission/399408715) | `binary search` `dp` `sortings` `*2000` | Nov/22/2026 02:32 AM |
+| 9 | [C - Games with Rectangle](https://codeforces.com/contest/128/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/128/submission/399408459) | `combinatorics` `dp` `*2000` | Nov/22/2026 02:27 AM |
+| 8 | [D - Two Divisors](https://codeforces.com/contest/1366/problem/D) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1366/submission/399406543) | `constructive algorithms` `math` `number theory` `*2000` | Nov/22/2026 01:56 AM |
 | 7 | [E - XOR on Segment](https://codeforces.com/contest/242/problem/E) | [C++17 (GCC 7-32)](https://codeforces.com/contest/242/submission/398890649) | `bitmasks` `data structures` `*2000` | Nov/17/2026 02:28 PM |
 | 6 | [B - Orac and Medians](https://codeforces.com/contest/1349/problem/B) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1349/submission/398791344) | `constructive algorithms` `greedy` `math` `*2000` | Nov/16/2026 09:31 PM |
 | 5 | [C - Sereja and Brackets](https://codeforces.com/contest/380/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/380/submission/398758819) | `data structures` `schedules` `*2000` | Nov/16/2026 04:13 PM |
