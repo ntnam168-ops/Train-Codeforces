@@ -18,6 +18,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 43 | [D - MEX Tree](https://codeforces.com/contest/1527/problem/D) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1527/submission/399411006) | `combinatorics` `dfs and similar` `implementation` `math` `trees` `*2400` | Nov/22/2026 03:11 AM |
 | 42 | [C - Stripe 2](https://codeforces.com/contest/21/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/21/submission/399408715) | `binary search` `dp` `sortings` `*2000` | Nov/22/2026 02:32 AM |
 | 41 | [C - Games with Rectangle](https://codeforces.com/contest/128/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/128/submission/399408459) | `combinatorics` `dp` `*2000` | Nov/22/2026 02:27 AM |
 | 40 | [C - Array](https://codeforces.com/contest/57/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/57/submission/399407137) | `combinatorics` `math` `*1900` | Nov/22/2026 02:06 AM |
