@@ -18,6 +18,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 37 | [E - The Untended Antiquity](https://codeforces.com/contest/869/problem/E) | [C++17 (GCC 7-32)](https://codeforces.com/contest/869/submission/399312914) | `data structures` `hashing` `*2400` | Nov/21/2026 03:40 PM |
 | 36 | [C - Nikita and LCM](https://codeforces.com/contest/1977/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1977/submission/399091304) | `brute force` `data structures` `dp` `greedy` `math` `number theory` `sortings` `*1900` | Nov/19/2026 10:44 AM |
 | 35 | [E - A Simple Task](https://codeforces.com/contest/558/problem/E) | [C++17 (GCC 7-32)](https://codeforces.com/contest/558/submission/398997231) | `data structures` `sortings` `strings` `*2300` | Nov/18/2026 09:09 AM |
 | 34 | [B - Maximum Value](https://codeforces.com/contest/484/problem/B) | [C++17 (GCC 7-32)](https://codeforces.com/contest/484/submission/398996508) | `binary search` `math` `sortings` `two pointers` `*2100` | Nov/18/2026 08:47 AM |
