@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 8 | [D - GCD of an Array](https://codeforces.com/contest/1493/problem/D) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1493/submission/399616570) | `brute force` `data structures` `hashing` `implementation` `math` `number theory` `sortings` `two pointers` `*2100` | Nov/23/2026 10:10 PM |
 | 7 | [B - Maximum Value](https://codeforces.com/contest/484/problem/B) | [C++17 (GCC 7-32)](https://codeforces.com/contest/484/submission/398996508) | `binary search` `math` `sortings` `two pointers` `*2100` | Nov/18/2026 08:47 AM |
 | 6 | [E - A and B and Lecture Rooms](https://codeforces.com/contest/519/problem/E) | [C++17 (GCC 7-32)](https://codeforces.com/contest/519/submission/398885876) | `binary search` `data structures` `dfs and similar` `dp` `trees` `*2100` | Nov/17/2026 02:08 PM |
 | 5 | [C - Ciel the Commander](https://codeforces.com/contest/321/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/321/submission/398880413) | `constructive algorithms` `dfs and similar` `divide and conquer` `greedy` `trees` `*2100` | Nov/17/2026 01:41 PM |
