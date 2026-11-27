@@ -18,6 +18,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 50 | [E - Wooden Game](https://codeforces.com/contest/1994/problem/E) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1994/submission/399987464) | `bitmasks` `greedy` `math` `trees` `*2000` | Nov/27/2026 05:34 PM |
 | 49 | [E - Tree Queries](https://codeforces.com/contest/1328/problem/E) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1328/submission/399981622) | `dfs and similar` `graphs` `trees` `*1900` | Nov/27/2026 04:21 PM |
 | 48 | [B - Appleman and Tree](https://codeforces.com/contest/461/problem/B) | [C++17 (GCC 7-32)](https://codeforces.com/contest/461/submission/399871273) | `dfs and similar` `dp` `trees` `*2000` | Nov/26/2026 02:51 PM |
 | 47 | [D - GCD Counting](https://codeforces.com/contest/1101/problem/D) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1101/submission/399619319) | `data structures` `dfs and similar` `dp` `number theory` `trees` `*2000` | Nov/23/2026 10:37 PM |
