@@ -18,6 +18,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 49 | [E - Tree Queries](https://codeforces.com/contest/1328/problem/E) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1328/submission/399981622) | `dfs and similar` `graphs` `trees` `*1900` | Nov/27/2026 04:21 PM |
+| 48 | [B - Appleman and Tree](https://codeforces.com/contest/461/problem/B) | [C++17 (GCC 7-32)](https://codeforces.com/contest/461/submission/399871273) | `dfs and similar` `dp` `trees` `*2000` | Nov/26/2026 02:51 PM |
 | 47 | [D - GCD Counting](https://codeforces.com/contest/1101/problem/D) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1101/submission/399619319) | `data structures` `dfs and similar` `dp` `number theory` `trees` `*2000` | Nov/23/2026 10:37 PM |
 | 46 | [C - Game on Tree](https://codeforces.com/contest/280/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/280/submission/399616911) | `implementation` `math` `probabilities` `trees` `*2200` | Nov/23/2026 10:14 PM |
 | 45 | [D - GCD of an Array](https://codeforces.com/contest/1493/problem/D) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1493/submission/399616570) | `brute force` `data structures` `hashing` `implementation` `math` `number theory` `sortings` `two pointers` `*2100` | Nov/23/2026 10:10 PM |

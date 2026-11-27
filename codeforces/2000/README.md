@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 12 | [B - Appleman and Tree](https://codeforces.com/contest/461/problem/B) | [C++17 (GCC 7-32)](https://codeforces.com/contest/461/submission/399871273) | `dfs and similar` `dp` `trees` `*2000` | Nov/26/2026 02:51 PM |
 | 11 | [D - GCD Counting](https://codeforces.com/contest/1101/problem/D) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1101/submission/399619319) | `data structures` `dfs and similar` `dp` `number theory` `trees` `*2000` | Nov/23/2026 10:37 PM |
 | 10 | [C - Stripe 2](https://codeforces.com/contest/21/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/21/submission/399408715) | `binary search` `dp` `sortings` `*2000` | Nov/22/2026 02:32 AM |
 | 9 | [C - Games with Rectangle](https://codeforces.com/contest/128/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/128/submission/399408459) | `combinatorics` `dp` `*2000` | Nov/22/2026 02:27 AM |

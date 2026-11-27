@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 17 | [E - Tree Queries](https://codeforces.com/contest/1328/problem/E) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1328/submission/399981622) | `dfs and similar` `graphs` `trees` `*1900` | Nov/27/2026 04:21 PM |
 | 16 | [D - Array Division](https://codeforces.com/contest/808/problem/D) | [C++17 (GCC 7-32)](https://codeforces.com/contest/808/submission/399615108) | `binary search` `data structures` `implementation` `*1900` | Nov/23/2026 09:56 PM |
 | 15 | [C - Array](https://codeforces.com/contest/57/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/57/submission/399407137) | `combinatorics` `math` `*1900` | Nov/22/2026 02:06 AM |
 | 14 | [C - Nikita and LCM](https://codeforces.com/contest/1977/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1977/submission/399091304) | `brute force` `data structures` `dp` `greedy` `math` `number theory` `sortings` `*1900` | Nov/19/2026 10:44 AM |
